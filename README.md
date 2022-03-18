@@ -1,4 +1,4 @@
-Ahoy, I’m Kiara Baungartner, 17 years old
+Ahoy, I’m Kiara Baungartner, 18 years old
 
 - I'm from São Paulo, Brazil, currently studying analisys and system development on Unip Tatuapé.
 And already studied system development on ETEC Guaianazes.  
@@ -7,7 +7,7 @@ And already studied system development on ETEC Guaianazes.
 
 <br>
 
-Oie, me chamo Kiara Baungartner, tenho 17 anos
+Oie, me chamo Kiara Baungartner, tenho 18 anos
 
 - Sou de São Paulo, Brasil, atualmente estudo analise e desenvolvimento de sistemas na Unip Tatuapé. E ja estudei desenvolvimento de sistemas na ETEC Guaianazes.
 
