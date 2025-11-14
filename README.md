@@ -1,4 +1,3 @@
-Github
 # Introducing myself
 
 ![Kiara Baungartner, Data Analyst, Data Scientist, Business Intelligence](https://github.com/kiaraBaungartner/kiaraBaungartner/blob/main/KiaraCoverImg.png)
