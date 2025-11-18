@@ -15,6 +15,11 @@ Data Analyst and Data Scientist with expertise in business intelligence, data an
 
 -	My [Portfolio](https://github.com/kiaraBaungartner/Portfolio/blob/main/README.md)
 
+### Certificates
+
+- [English](placeholder)
+- [Techniques](placeholder)
+
 ### Tools 
 
 -	Language: Python, SQL
