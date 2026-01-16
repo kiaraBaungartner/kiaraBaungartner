@@ -5,9 +5,9 @@
 ### Hello, I'm Kiara
 Data Analyst and Data Scientist with expertise in business intelligence, data analysis, reporting, data modeling and machine learning.
 
--	Experience with AWS Cloud service
+-	Experience with Amazon Web Services and Google Cloud Plataform
 -	Querying data using SQL in AWS Athena, Microsoft SqlServer
--	Creating Dashboard with AWS Quicksight and Tableau
+-	Creating Dashboard with AWS Quicksight, Tableau, Looker Studio
 -	Data Analysis and Data Treatment using Python in AWS Glue, AWS Sagemaker, Google Colab, Excel and Alteryx
 - Machine Learning using Python in AWS Sagemaker, Google Colab
 
@@ -15,14 +15,9 @@ Data Analyst and Data Scientist with expertise in business intelligence, data an
 
 -	My [Portfolio](https://github.com/kiaraBaungartner/Portfolio/blob/main/README.md)
 
-### Certificates
-
-- [English](placeholder)
-- [Techniques](placeholder)
-
 ### Tools 
 
 -	Language: Python, SQL
 -	Database: AWS Athena, AWS S3, AWS RDS, Microsoft SqlServer
--	Visualization: Quicksight, Tableau
+-	Visualization: Quicksight, Tableau, Looker Studio
 -	ETL: AWS Glue, Alteryx
